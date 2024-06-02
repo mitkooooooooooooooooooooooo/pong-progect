@@ -1,0 +1,15 @@
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\bin\Debug\net6.0\pong.exe
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\bin\Debug\net6.0\pong.deps.json
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\bin\Debug\net6.0\pong.runtimeconfig.json
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\bin\Debug\net6.0\pong.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\bin\Debug\net6.0\pong.pdb
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.csproj.AssemblyReference.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.AssemblyInfoInputs.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.AssemblyInfo.cs
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.csproj.CoreCompileInputs.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\refint\pong.dll
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.pdb
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\pong.genruntimeconfig.cache
+C:\Users\d_vla\OneDrive\Документи\GitHub\pong-progect\pong\pong\obj\Debug\net6.0\ref\pong.dll
